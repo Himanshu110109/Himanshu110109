@@ -1,8 +1,9 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/wide/68bba4cfd26114391c170303?variant=dark)](https://roadmap.sh)
 <!--
 **Himanshu110109/Himanshu110109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![roadmap.sh](https://roadmap.sh/card/wide/68bba4cfd26114391c170303?variant=dark)](https://roadmap.sh)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
