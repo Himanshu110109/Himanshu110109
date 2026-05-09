@@ -97,5 +97,3 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu110109&show_icons=true&locale=en" />
 </p>
-
-<a href="https://u8views.com/github/Himanshu110109"><img src="https://u8views.com/api/v1/github/profiles/158292948/views/day-week-month-total-count.svg"></a>
