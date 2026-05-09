@@ -21,7 +21,7 @@
 </td>
 
 <td>
-<a href="https://linkedin.com/in/himanshu-chandani-9a91b13b7" target="_blank">
+<a href="https://www.linkedin.com/in/himanshu-chandani-868718409/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </td>
