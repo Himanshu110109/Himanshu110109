@@ -21,12 +21,6 @@
 </td>
 
 <td>
-<a href="https://www.linkedin.com/in/himanshu-chandani-868718409/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</td>
-
-<td>
 <a href="https://kaggle.com/sanskaricoder" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
 </a>
