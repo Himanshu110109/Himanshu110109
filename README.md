@@ -3,7 +3,7 @@
 
 ---
 
-🌱 I’m currently learning **MLOps**  
+🌱 I’m currently learning **Computer vision**  
 👨‍💻 Portfolio: https://sanskari-coder.vercel.app  
 📫 Reach me at: **himanshu110109@gmail.com**  
 ⚡ Fun fact: *I can print "Hello World" (and break production too)*  
